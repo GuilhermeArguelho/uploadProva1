@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Geneva, Tahoma, sans-serif;
+}
+
+.container1 {}
+
+.div1 {
+    background-color: rgb(53, 59, 73);
+    position: fixed;
+    width: 25%;
+    height: 100%;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tudosobre {
+    color: lightgray;
+    font-size: 0.9rem;
+}
+
+.contato {
+    margin-top: 15px;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.contato2 {
+    border: 2px solid #fff;
+    padding: 6px;
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: lightgray;
+}
+
+.container1 {
+    margin-left: 25%;
+    width: 75%;
+}
+
+.div2 {
+    padding: 32px 16px 8rem 32px;
+    border-top: 2px solid rgb(151, 150, 150);
+}
+
+a {
+    color: rgb(51, 51, 243);
+}
+
+#subtitulo {
+    color: gray;
+    padding-bottom: 30px;
+}
+
+#subtitulored {
+    background-color: red;
+    padding: 3px 5px 3px 5px;
+    color: #fFf;
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+img {
+    width: 60px;
+    height: auto;
+    border-radius: 100%;
+    float: right;
+    margin-top: -2.1rem;
+}
