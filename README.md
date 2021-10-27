@@ -1,5 +1,5 @@
 # uplouad_Prova1
-https://guilhermearguelho.github.io/uploaud_Prova1/
+https://guilhermearguelho.github.io/upload_Prova1/
 
 Este é um site que fala sobre os games em alta.
 
